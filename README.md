@@ -12,7 +12,7 @@ Um Event-form é um formulário de coleta de dados utilizado para capturar infor
 </p>
 
 <p align="center">
-  <img alt="License" src="">
+  <img alt="License" src="https://github.com/brunooliveira7/Event-form/blob/main/assets/Layout%20-%20Event-form.png">
 </p>
 
 <br>
