@@ -31,7 +31,7 @@ Esse tipo de formulário é comum em sistemas de gestão de eventos, calendário
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/Pg502b6GJofDi9txwPUFPH/Fotoblog-%E2%80%A2-Projeto-Explorer-(Community)?node-id=0-1&m=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/7JpWldCc5gKw2SlJkAfJKv/Explorer-Stage-03-Projeto-01-(Copy)?node-id=0-1&node-type=canvas&m=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
